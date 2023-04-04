@@ -1,4 +1,4 @@
-# rectangle-exercise-template
+# rectangle-exercise
 
 You have been tasked with implementing a Rectangle class that represents a rectangle. The Rectangle class should have a Width property (a double) and a Height property (a double). The Rectangle class should also have a method called Area that returns the area of the rectangle.
 
